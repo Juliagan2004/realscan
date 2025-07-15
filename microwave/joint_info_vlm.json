@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "name": "microwave_body",
+        "joint": "static",
+        "parent": -1
+    },
+    {
+        "id": 1,
+        "name": "microwave_door",
+        "joint": "hinge",
+        "parent": 0
+    }
+]

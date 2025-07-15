@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "cabinet_base",
+        "joint": "heavy",
+        "parent": -1
+    },
+    {
+        "id": 1,
+        "name": "top_drawer",
+        "joint": "slider",
+        "parent": 0
+    },
+    {
+        "id": 2,
+        "name": "middle_drawer",
+        "joint": "slider",
+        "parent": 0
+    },
+    {
+        "id": 3,
+        "name": "bottom_drawer",
+        "joint": "slider",
+        "parent": 0
+    }
+]

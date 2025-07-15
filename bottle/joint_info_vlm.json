@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "name": "bottle_base",
+        "joint": "static",
+        "parent": -1
+    },
+    {
+        "id": 1,
+        "name": "flip_top_lid",
+        "joint": "hinge",
+        "parent": 0
+    }
+]
